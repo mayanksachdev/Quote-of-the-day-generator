@@ -28,9 +28,9 @@ body {
 }
 
 #div-main {
-    width: 75%;
-    height: 250px;
-    border: 2.25px solid black;
+    width: 80%;
+    height: 280px;
+    border: 2.5px solid black;
     margin: 5rem auto 14rem;
     background-color: white;
     border-radius: 10px;
@@ -45,22 +45,23 @@ body {
 }
 
 #div-quote {
-    padding: 0.5rem 1rem 0.3rem;
+    padding: 0.4rem 1rem 0.2rem;
     margin: 0rem;
-    height: 80px;
+    height: 110px;
     text-align: center;
     font-size: 18px;
 }
 
 #div-quote-author {
-    padding: 0.3rem 2rem 0.5rem 0.5rem;
-    height: 30px;
+    padding: 0.3rem 4rem 0.5rem 0.5rem;
+    height: 25px;
     text-align: right;
     font-size: 16px;
 }
 
 hr {
     margin: 0rem 0.5rem;
+    padding: 0;
 }
 
 #div-btn-container {
@@ -73,7 +74,7 @@ hr {
     font-family: 'Lora', serif;
     font-size: 18px;
     padding: 0.5rem;
-    border: 1.5px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     color: black;
     background-color: var(--primary-color);
